@@ -10,4 +10,16 @@ int main()
     std::cout << text;
      std::cout << text;
       std::cout << text;
+        std::cin >> text;
+    std::cout << text;
+     std::cout << text;
+      std::cout << text;
+        std::cin >> text;
+    std::cout << text;
+     std::cout << text;
+      std::cout << text;
+        std::cin >> text;
+    std::cout << text;
+     std::cout << text;
+      std::cout << text;
 }
